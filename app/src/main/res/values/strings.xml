@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">To Do List App</string>
+    <!--to toggle the open close button
+       of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="date">2021/12/25 18:00:20</string>
+    <string name="title">Judul Kegiatan</string>
+    <string name="description">Deskripsi</string>
+    <string name="tanggal">Tanggal Kegiatan</string>
+    <string name="waktu">Waktu Kegiatan</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="atur_alarm">Atur Alarm</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="alarm_time">Waktu Alarm</string>
+    <string name="string_empty_or_null">-</string>
+    <string name="empty_state_title">Jadwal Kegiatan Kosong</string>
+    <string name="empty_state_desc">Klik Icon + di kanan bawah untuk membuat jadwal baru</string>
+    <string name="description_application">Todo List App adalah sebuah aplikasi untuk mencatat jadwal kegiatan kita sehari - hari dimana didalam aplikasi ini memiliki sebuah fitur yaitu dapat mengatur notifikasi terkait jadwal kegiatan yang telah kita catat.</string>
+    <string name="description_application_2">Adapun Aplikasi ini dibuat untuk memenuhi TB2 Pemrograman Mobile.</string>
+    <string name="title_about_author">Author</string>
+    <string name="MID">- Muhamad Irvan Dandung (41519110136)</string>
+    <string name="application_about_title">Tentang Aplikasi</string>
+    <string name="Cut">- Cutyanti (41519110068)</string>
+</resources>
